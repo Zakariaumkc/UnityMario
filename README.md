@@ -28,3 +28,5 @@ Now it’s time to re engage the lost customers through AR/VR.
 We have made a score calculator and added lifes by collecting different types of fruits.
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/90468696/162867646-ca003b10-4acc-442c-ae26-d800f57de05f.png">
 
+We modelled a character and made it run !
+<img width="596" alt="image" src="https://user-images.githubusercontent.com/90468696/162868760-c0b37600-7539-47bf-9cf7-2b38ab453a00.png">
